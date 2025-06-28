@@ -10,7 +10,7 @@
 - 🔐 Building quantum-resistant blockchain: `NusantaraChain`
 - 🔗 Integrating LayerZero, PoS, PoW, AI mining, and DDoS protection
 - 🧰 Languages: Rust, JS/TS, Bash, Solidity, Web3
-- 📫 Email: your.email@example.com
+- 📫 Email: alitnakpb14@gmail.com
 - 🌐 Website/Blog: (opsional)
 
 ---
